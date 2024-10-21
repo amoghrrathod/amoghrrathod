@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amoghrrathod
-- 👀 I’m interested in the cloud and cybersecurity
+- 👀 I’m interested in the cloud 
 - 🌱 I’m currently learning cloud automations
 - 📫 How to reach me github dms
 
