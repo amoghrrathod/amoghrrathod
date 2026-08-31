@@ -42,7 +42,7 @@ Bengaluru, India
 <img src="https://github-readme-stats.vercel.app/api?username=amoghrrathod&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amoghrrathod&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amoghrrathod&theme=tokyonight&hide_border=true" alt="Streak stats" />
+<img src="https://streak-stats.demolab.com?user=amoghrrathod&theme=tokyonight&hide_border=true" alt="Streak stats" />
 
 </div>
 
