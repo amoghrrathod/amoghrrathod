@@ -43,7 +43,6 @@ Bengaluru, India
 
 </div>
 
-<sub>Generated daily by a GitHub Action in this repo (see <code>.github/workflows/metrics.yml</code>) — self-hosted, so it doesn't depend on a third-party server staying up.</sub>
 
 ### elsewhere
 
