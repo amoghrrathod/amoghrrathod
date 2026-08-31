@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/amoghrrathod">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Backend+%2F+AI+Systems+Developer;Building+voice+agents+%40+Nexaneura;Writing+Go%2C+Rust%2C+and+occasionally+C;Ranked+31st%2F300+at+NITK+Code-Red+CTF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Backend+%2F+AI+Systems+Developer;Building+voice+agents+%40+Nexaneura;Writing+C++%2C+Rust%2C+and+occasionally+C;Ranked+31st%2F300+at+NITK+Code-Red+CTF" alt="Typing SVG" />
 </a>
 
 </div>
