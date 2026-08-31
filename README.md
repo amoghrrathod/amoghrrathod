@@ -39,12 +39,11 @@ Bengaluru, India
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amoghrrathod&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amoghrrathod&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
-
-<img src="https://streak-stats.demolab.com?user=amoghrrathod&theme=tokyonight&hide_border=true" alt="Streak stats" />
+<img src="./metrics.svg" alt="GitHub metrics" />
 
 </div>
+
+<sub>Generated daily by a GitHub Action in this repo (see <code>.github/workflows/metrics.yml</code>) — self-hosted, so it doesn't depend on a third-party server staying up.</sub>
 
 ### elsewhere
 
