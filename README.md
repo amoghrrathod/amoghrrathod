@@ -18,7 +18,6 @@ Bengaluru, India
 - 🎓 CS (AI/ML) @ PES University, Bengaluru — expected 2027, 8.2 CGPA
 - ⚙️ Built a Docker-like container runtime from scratch — content-addressed layers, custom build spec, Linux namespaces + chroot, no Docker/runc
 - ♻️ Trained a PPO agent that decides when ML models actually need retraining, cutting unnecessary compute
-- 🏴‍☠️ Placed 31st out of 300+ teams at NITK's Code-Red cybersecurity CTF
 
 ### stack
 
