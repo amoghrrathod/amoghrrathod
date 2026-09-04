@@ -14,10 +14,8 @@ Bengaluru, India
 
 ### currently
 
-- 🧠 Building a self-hosted, multilingual voice agent (Hindi, Gujarati, Marathi) at **Nexaneura Technologies**
-- 🎓 CS (AI/ML) @ PES University, Bengaluru — expected 2027, 8.2 CGPA
-- ⚙️ Built a Docker-like container runtime from scratch — content-addressed layers, custom build spec, Linux namespaces + chroot, no Docker/runc
-- ♻️ Trained a PPO agent that decides when ML models actually need retraining, cutting unnecessary compute
+- 🧠 Building a self-hosted, multilingual voice agents at **Nexaneura Technologies**
+- 🎓 CS (AI/ML) @ PES University, Bengaluru — expected 2027
 
 ### stack
 
